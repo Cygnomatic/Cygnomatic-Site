@@ -8,6 +8,18 @@ const config: UserConfig = {
   theme: recoTheme({
     author: 'Cygnomatic Lab',
     componentsDir: 'docs/.vuepress/components',
+    friendshipLinks: [
+      {
+        title: "Jerry Faraday's Blog",
+        logo: 'https://jerryfaraday.github.io/avatar/JerryFaraday.jpg',
+        link: 'https://jerryfaraday.github.io/'
+      },
+      {
+        title: 'Richard Yang',
+        logo: 'https://avatars.githubusercontent.com/u/23440907?v=4',
+        link: 'https://github.com/yang-zhongtian'
+      },
+    ],
   }),
 }
 
