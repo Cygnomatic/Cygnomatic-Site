@@ -1,8 +1,6 @@
 ---
 home: true
-isShowTitleInHome: true
-actionText: About
-actionLink: /views/other/about
+isShowTitleInHome: false
 modules:
   - CustomBannerBrand
 #   - MdContent
