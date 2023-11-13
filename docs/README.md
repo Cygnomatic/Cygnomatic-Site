@@ -8,11 +8,10 @@ modules:
 bannerBrand:
   title: Cygnomatic.
   description: '北邮鸿雁机器人创新实验室'
-  tagline: 北京邮电大学鸿雁机器人创新实验室于2022年成立，隶属于北京邮电大学人工智能学院。实验室主要参加由大疆主办的全国大学生机器人竞赛 RoboMaster 机甲大师赛。
+  tagline: 北邮鸿雁机器人创新实验室于2022年成立，隶属于北京邮电大学人工智能学院。实验室主要参加由大疆主办的全国大学生机器人竞赛 RoboMaster 机甲大师赛。
   bgImage: /bg.svg
   buttons:
-    - { text: 加入我们, icon: 'EarthFilled', link: '/' }
-    # - { text: 了解更多, link: '/', type: 'plain', icon: 'Alien' }
+    - { text: 加入我们, icon: 'Rocket', link: 'https://mp.weixin.qq.com/s/X98TQFoV7-pLgQbGmigbzw' }
     - { text: 了解更多, link: '/', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://github.com/Cygnomatic', color: '#fb9b5f'}
